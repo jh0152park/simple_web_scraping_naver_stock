@@ -7,3 +7,7 @@ Simple python web scarping script. Store top 250 information on KOSPI market cap
 
 # Overview
 Using Python's beautifulsoup module, the company information of 250 KOSPI market capitalization is simply stored as a csv file on the naver web page.
+
+
+# Description Blog
+https://jh0152park.notion.site/12-BeautifulSoup-dc3818909a894dc6a7f32ccf2d012c9c
